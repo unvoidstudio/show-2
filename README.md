@@ -1,5 +1,9 @@
-# show-2
-A sci-fi adventure, will be streamed LIVE on https://www.twitch.tv/u_n_v_o_i_d_s_t_u_d_i_o
+# show-2 by Unvoid Studio
+An interactive sci-fi adventure!
+Will be streamed LIVE on https://www.twitch.tv/u_n_v_o_i_d_s_t_u_d_i_o
+
+
+
 
 Welcome austronaut,
 
@@ -11,9 +15,13 @@ As of now, Show#2 have not started, so there is ENORMOUS SPACE FOR YOU TO INFLUE
 
 Let the SHOW BEGIN!
 
+// Tistou Blomberg, Unvoid Studio 2022 Jan 14
+
+
+
+
 
 tip: You can invite your friends to write!
-
 
 INSTRUCTIONS:
 
@@ -27,5 +35,3 @@ When can I watch it?
 When will the stream be live?
 During 2022 we will work on the show to make it ready for streaming.
 When it's ready we will start to create pictures, animations, writing dialogue and programming code to make the story interactive.
-
-//Tistou Blomberg, Unvoid Studio 2022 Jan 14
